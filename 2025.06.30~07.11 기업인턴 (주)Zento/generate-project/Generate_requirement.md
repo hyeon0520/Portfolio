@@ -51,3 +51,28 @@ AI를 이용하여 이미지 및 비디오를 생성하는 모델을 구성하�
 - **Postman**: API 테스트 도구
 - **웹 프론트엔드**: (추후 연동 예정)
 
+```mermaid
+sequenceDiagram
+    participant Client
+    participant WebUI
+    participant FastAPI_Backend
+    participant PromptTranslator
+    participant Generator
+    participant Storage
+
+    Client->>WebUI: 모델 선택 + 프롬프트 입력
+    WebUI->>FastAPI_Backend: POST /generate (모델, 프롬프트)
+    FastAPI_Backend->>PromptTranslator: 한글 프롬프트인지 확인 및 번역
+    PromptTranslator-->>FastAPI_Backend: 영어 프롬프트 반환
+    FastAPI_Backend->>Generator: generate_image(model, prompt)
+    Generator-->>FastAPI_Backend: 생성된 이미지 객체 반환
+    FastAPI_Backend->>Storage: 이미지 저장 (image_id.png)
+    FastAPI_Backend-->>WebUI: 이미지 ID, 생성 성공 메시지
+
+    Client->>WebUI: 이미지 확인 요청
+    WebUI->>FastAPI_Backend: GET /image/{image_id}
+    FastAPI_Backend->>Storage: 이미지 파일 검색
+    Storage-->>FastAPI_Backend: 이미지 파일 반환
+    FastAPI_Backend-->>WebUI: 이미지 응답 (FileResponse)
+    WebUI-->>Client: 이미지 표시
+```
