@@ -11,3 +11,4 @@
 | 2025.06.30~07.11 | 기업인턴 (주)Zento | HuggingFace AI를 이용한 이미지 및 비디오를 생성하여 클라이언트에게 서비스를 제공하는 프로젝트 진행 |
 | 2025.07.11       | Energies 논문 게재 (SCIE급) | 논문: A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data, SCIE급 논문지 Energies에 시계열 이상탐지 및 최적화 관련 논문 게재, 충청권 뉴스 보도 |
 | 2025.08.10~08.15 | IRO 로봇올림피아드 본선 | IRO에서 주최한 로봇올림피아드 본선에서 진행요원을 맡아, 참가자 인솔 및 통제를 담당 |
+| 2025.11.19~11.21 | 한국통신학회(추계) | 논문: DTW 군집화 기반 롤링 IQR 규칙 강화학습을 통한 이상치 탐지 모델에 관한 연구, 캡스톤: 실시간 데이터 이상탐지 및 시각화 |
