@@ -15,3 +15,4 @@
 | 2025.11.19~11.21 | 한국통신학회(추계) | 논문: DTW 군집화 기반 롤링 IQR 규칙 강화학습을 통한 이상치 탐지 모델에 관한 연구, 캡스톤: 실시간 데이터 이상탐지 및 시각화 |
 | 2026.01.20~01.24 | AAAI(Student Abstract) in Singapore | 논문: Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries |
 | 2026.02.04~02.06 | 한국통신학회(동계) | 논문: SLM 에이전트를 활용한 데이터 분석 및 이상 경계 구간 탐지, 아이디어 경진대회: 교통 혼잡 제어를 위한 Agentic AI |
+| 2026.04.02~05.27 | ABC 부트캠프 멘토링 | 총 9주간의 프로젝트 차세대 지능형 로보틱스 및 고성능 AI 컴퓨팅 플랫폼 개발 |
