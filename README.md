@@ -28,7 +28,7 @@
 
 #### 2025 대한전자공학회(하계)
 <div>
-  <br>  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/Autoencoder.png?raw=true" width="476" />
   <br>
   ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지
