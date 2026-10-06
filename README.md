@@ -69,8 +69,10 @@
 #### Energies
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Energies%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-    <br>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Acceptance-Certificate-energies-3742264_1.png?raw=true" height="250" />
+  <br>
   ● (논문)A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data<br>
+
 </div>
 
 ### 학회 참여사진
