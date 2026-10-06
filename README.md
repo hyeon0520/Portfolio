@@ -1,6 +1,7 @@
 # Portfolio
 *컴퓨터과학, 프로그래밍, 코딩 관련 활동 포트폴리오*
 ## Paper
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />
 | Date | Project | Details |
 |-------|-------|-------|
 | 2025.01.16~01.21 | IROC 국제로봇올림피아드 | IRO에서 주최한 세계대회에서 진행요원을 맡아, 참가자들 인솔 및 통제를 담당 |
