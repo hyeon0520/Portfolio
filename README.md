@@ -20,5 +20,5 @@
 <div>
   - 2024 한국통신학회(동계), Isolation forest와 AutoEncoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2024%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80_1.png?raw=true" width="200" />
-    <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%EC%8B%9C%EA%B0%84%EB%8C%80%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EC%88%98%EC%9A%94.png?raw=true" width="200" />
+    <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%EC%8B%9C%EA%B0%84%EB%8C%80%EB%B3%84%20%ED%8F%89%EA%B7%A0%20%EC%88%98%EC%9A%94.png?raw=true" width="300" />
 </div>
