@@ -20,8 +20,8 @@
 ### KCI급
 #### 2024 한국통신학회(동계)
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2024%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/Autoencoder.png?raw=true" height="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2024%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/Autoencoder.png?raw=true" height="200" />
   <br>
   ● (논문)Isolation forest와 AutoEncoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화<br>
   ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출
@@ -29,8 +29,8 @@
 
 #### 2025 대한전자공학회(하계)
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80.png?raw=true" height="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80.png?raw=true" height="200" />
   <br>
   ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
   ● (연구)푸리에 변환 주기 추출 윈도우 구성 내 이상치 탐지
@@ -38,8 +38,8 @@
 
 #### 2025 한국통신학회(추계)
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg?raw=true" height="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg?raw=true" height="200" />
   <br>
   ● (논문)DTW 군집화 기반 롤링 IQR 규칙 강화학습을 통한 이상치 탐지 모델에 관한 연구<br>
   ● (연구)피크 별 주요 이상치 탐지 결과
@@ -47,8 +47,8 @@
 
 #### 2025 한국통신학회(동계)
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%98%88%EC%8B%9C.png?raw=true" height="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%98%88%EC%8B%9C.png?raw=true" height="200" />
   <br>
   ● (논문)SLM 에이전트를 활용한 데이터 분석 및 이상 경계 구간 탐지<br>
   ● (연구)에이전트 대화 테스트케이스
@@ -56,9 +56,9 @@
 
 #### 2026 대한전자공학회(하계)
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="200" />
   <br>
   ● (논문)잔차 동역학 학습 기반 공압 인공근육 휴머노이드 핸드의 강화학습 파지 및 조작 제어<br>
   ● (연구)오차 검증 및 제어 그래프<br>
@@ -68,8 +68,8 @@
 ### SCI급
 #### Energies
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Energies%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Acceptance-Certificate-energies-3742264_1.png?raw=true" height="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Energies%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Acceptance-Certificate-energies-3742264_1.png?raw=true" height="200" />
   <br>
   ● (논문)A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data<br>
   ● (인증서)Energies 논문 인증 공문서<br>
