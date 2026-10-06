@@ -18,5 +18,5 @@
 | 2026.04.02~05.27 | ABC 부트캠프 멘토링 | 총 9주간의 프로젝트 차세대 지능형 로보틱스 및 고성능 AI 컴퓨팅 플랫폼 개발 |
 ## Paper
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2024%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80_1.png?raw=true" width="150" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2024%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80_1.png?raw=true" width="300" />
 </div>
