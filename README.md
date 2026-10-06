@@ -23,7 +23,7 @@
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/Autoencoder.png?raw=true" width="476" />
   <br>
   ● (논문)Isolation forest와 AutoEncoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화<br>
-  ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출
+  ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출 시각화
 </div>
 
 #### 2025 대한전자공학회(하계)
