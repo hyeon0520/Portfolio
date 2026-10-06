@@ -17,6 +17,7 @@
 | 2026.02.04~02.06 | 한국통신학회(동계) | 논문: SLM 에이전트를 활용한 데이터 분석 및 이상 경계 구간 탐지, 아이디어 경진대회: 교통 혼잡 제어를 위한 Agentic AI |
 | 2026.04.02~05.27 | ABC 부트캠프 멘토링 | 총 9주간의 프로젝트 차세대 지능형 로보틱스 및 고성능 AI 컴퓨팅 플랫폼 개발 |
 ## 논문 및 연구
+### KCI급
 #### 2024 한국통신학회(동계)
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2024%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
@@ -34,3 +35,41 @@
   ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
   ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출
 </div>
+
+#### 2025 한국통신학회(추계)
+<div>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/Autoencoder.png?raw=true" width="476" />
+  <br>
+  ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
+  ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출
+</div>
+
+#### 2025 한국통신학회(동계)
+<div>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/Autoencoder.png?raw=true" width="476" />
+  <br>
+  ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
+  ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출
+</div>
+
+#### 2026 대한전자공학회(하계)
+<div>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/Autoencoder.png?raw=true" width="476" />
+  <br>
+  ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
+  ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출
+</div>
+
+### SCI급
+
+### 학회 참여사진
+
+## 경진대회
+
+## 대외활동
+### 인턴
+### 부트캠프
+### IRO 진행요원
