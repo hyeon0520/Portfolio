@@ -1,4 +1,5 @@
 # Portfolio
+## 타임라인
 *컴퓨터과학, 프로그래밍, 코딩 관련 활동 포트폴리오*
 | Date | Project | Details |
 |-------|-------|-------|
@@ -16,7 +17,7 @@
 | 2026.01.20~01.24 | AAAI(Student Abstract) in Singapore | 논문: Multi-Stage Reinforcement Learning for Robust Charging of Quantum Batteries |
 | 2026.02.04~02.06 | 한국통신학회(동계) | 논문: SLM 에이전트를 활용한 데이터 분석 및 이상 경계 구간 탐지, 아이디어 경진대회: 교통 혼잡 제어를 위한 Agentic AI |
 | 2026.04.02~05.27 | ABC 부트캠프 멘토링 | 총 9주간의 프로젝트 차세대 지능형 로보틱스 및 고성능 AI 컴퓨팅 플랫폼 개발 |
-## Paper
+## 논문 및 연구
 <div>
   ● 2024 한국통신학회(동계), (논문)Isolation forest와 AutoEncoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2024%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
