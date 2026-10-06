@@ -30,7 +30,6 @@
 #### 2025 대한전자공학회(하계)
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%A7%84%ED%8F%AD%EA%B0%90%EC%A7%80.png?raw=true" height="250" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80.png?raw=true" height="250" />
   <br>
   ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
@@ -40,7 +39,6 @@
 #### 2025 한국통신학회(추계)
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EA%B5%B0%EC%A7%91%ED%99%94.png?raw=true" height="250" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg?raw=true" height="250" />
   <br>
   ● (논문)DTW 군집화 기반 롤링 IQR 규칙 강화학습을 통한 이상치 탐지 모델에 관한 연구<br>
@@ -59,8 +57,8 @@
 #### 2026 대한전자공학회(하계)
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="250" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="250" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png?raw=true" height="250" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="250" />
   <br>
   ● (논문)잔차 동역학 학습 기반 공압 인공근육 휴머노이드 핸드의 강화학습 파지 및 조작 제어<br>
   ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출
