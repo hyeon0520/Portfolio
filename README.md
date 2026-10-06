@@ -39,7 +39,7 @@
 
 #### 2025 한국통신학회(추계)
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" width="180" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%ED%95%98%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="80" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EA%B5%B0%EC%A7%91%ED%99%94.png?raw=true" width="180" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg?raw=true" width="180" />
   <br>
