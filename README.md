@@ -102,7 +102,7 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/generate-project/generate_images/380adc89e0f64508917960fe3dac1bd1.png?raw=true" height="200" /> ◀이미지 생성 예시
   <br>
   <img
-  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/AI%20%EC%9D%B4%EB%AF%B8%EC%A7%80%C2%B7%EB%B9%84%EB%94%94%EC%98%A4%20%EC%83%9D%EC%84%B1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%9D%90%EB%A6%84%EB%8F%84.png?raw=true" height="425" />
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/AI%20%EC%9D%B4%EB%AF%B8%EC%A7%80%C2%B7%EB%B9%84%EB%94%94%EC%98%A4%20%EC%83%9D%EC%84%B1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%9D%90%EB%A6%84%EB%8F%84.png?raw=true" width="445" />
   <br>
   ● 이미지 및 비디오 생성 파이프라인 구축 프로젝트 참여<br>
   ● FastAPI 기반 웹 연동 시스템 개발 보조<br>
