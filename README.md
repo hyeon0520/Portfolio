@@ -18,7 +18,7 @@
 | 2026.04.02~05.27 | ABC 부트캠프 멘토링 | 총 9주간의 프로젝트 차세대 지능형 로보틱스 및 고성능 AI 컴퓨팅 플랫폼 개발 |
 | 2026.06.23~06.26 | 대한전자공학회(하계) | 논문: 잔차 동역학 학습 기반 공압 인공근육 휴머노이드 핸드의 강화학습 파지 및 조작 제어 |
 ## 📑논문 및 연구
-### 🇰🇷KCI
+### 🇰🇷 KCI
 #### 2024 한국통신학회(동계)
 <div>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%5B%EC%B5%9C%EC%A2%85%5DIsolation%20Forest%EC%99%80%20Autoencoder%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80%20%EA%B8%B0%EB%B2%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%82%B0%EC%97%85%20%EC%A0%84%EB%A0%A5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%B5%9C%EC%A0%81%ED%99%94.pdf">
