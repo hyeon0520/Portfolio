@@ -97,7 +97,8 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 
 ### IRO 진행요원
 
-## 🕑활동 타임라인
+---
+### 🕑활동 타임라인
 | Date | Activity | Details |
 |-------|-------|-------|
 | 2025.01.16~01.21 | IROC 국제로봇올림피아드 | IRO에서 주최한 세계대회에서 진행요원을 맡아, 참가자들 인솔 및 통제를 담당 |
