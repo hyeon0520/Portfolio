@@ -82,6 +82,8 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png?raw=true" height="200" />
 </div>
 
+### 캡스톤디자인
+
 ## 🏅경진대회
 #### 🏆2025 국립한밭대학교 자기소개서 경진대회 우수상
 <div>
@@ -135,7 +137,7 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   <br>
   ● 2026 ABC 부트캠프 멘토링 프로젝트 팀장<br>
   ● 인공근육 기반의 로봇 핸드 파지 및 제어 훈련<br>
-  ● 웹 프론트 개발을 통한 제어 동작 수행<br>
+  ● 강화학습을 통한 제어 오차 측정 및 통제, 정량적 지표 검증을 수행<br>
   ● 프로젝트 과정:
   <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8">테크노트1</a>,
   <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A3%BC%EC%B0%A8">테크노트2</a>,
@@ -154,10 +156,10 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.01.16~01.21%20IROC%20%EA%B5%AD%EC%A0%9C%EB%A1%9C%EB%B4%87%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C%20%EC%A7%84%ED%96%89%EC%9A%94%EC%9B%90/Eco%20AI%EB%8B%A8%EC%B2%B41.jpg?raw=true" height="200" />
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.08.10~08.15%20IRO%20%EB%A1%9C%EB%B4%87%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C%20%EB%B3%B8%EC%84%A0%20%EC%A7%84%ED%96%89%EC%9A%94%EC%9B%90/EcoAI%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
-</div>
-<br>
+  <br>
   ● 참가자 통솔 및 안내 진행요원<br>
   ● 피지컬 AI 및 자율주행 로봇 시험 감독관<br>
+</div>
 
 ---
 
