@@ -97,7 +97,8 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 
 ### IRO 진행요원
 
----
+<br>
+
 ### 🕑활동 타임라인
 | Date | Activity | Details |
 |-------|-------|-------|
