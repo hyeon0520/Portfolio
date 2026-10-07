@@ -134,8 +134,17 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   ● 2026 ABC 부트캠프 멘토링 프로젝트 팀장<br>
   ● 인공근육 기반의 로봇 핸드 파지 및 제어 훈련<br>
   ● 웹 프론트 개발을 통한 제어 동작 수행<br>
-  ● 프로젝트 과정: [테크노트1](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8), [테크노트2](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A3%BC%EC%B0%A8), [테크노트3](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-3%EC%A3%BC%EC%B0%A8), [테크노트4](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-4%EC%A3%BC%EC%B0%A8), [테크노트5](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-5%EC%A3%BC%EC%B0%A8), [테크노트6](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-6%EC%A3%BC%EC%B0%A8), [테크노트7](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7%EC%A3%BC%EC%B0%A8), [테크노트8](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-8%EC%A3%BC%EC%B0%A8)
+  ● 프로젝트 과정:
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8">테크노트1</a>,
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2%EC%A3%BC%EC%B0%A8">테크노트2</a>,
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-3%EC%A3%BC%EC%B0%A8">테크노트3</a>,
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-4%EC%A3%BC%EC%B0%A8">테크노트4</a>,
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-5%EC%A3%BC%EC%B0%A8">테크노트5</a>,
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-6%EC%A3%BC%EC%B0%A8">테크노트6</a>,
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-7%EC%A3%BC%EC%B0%A8">테크노트7</a>,
+  <a href="https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-8%EC%A3%BC%EC%B0%A8">테크노트8</a>
 </div>
+[테크노트1](https://mfireon.tistory.com/entry/2026-ABC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A9%98%ED%86%A0%EB%A7%81-4%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8)
 
 ### 로봇올림피아드 진행요원
 #### 2025, 2026 IRO 로봇올림피아드
