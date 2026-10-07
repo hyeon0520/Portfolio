@@ -99,8 +99,8 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png?raw=true" width="150" />
 </div>
 
-## 🥇경진대회
-#### 2025 국립한밭대학교 자기소개서 경진대회
+## 🏅경진대회
+#### 🥈2025 국립한밭대학교 자기소개서 경진대회
 <div>
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.10.20~12.08%20NEXT%20PICK-%EC%B7%A8%EC%97%85%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8/2025%EB%85%84%20%EC%B7%A8%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20NEXT%20PICK%20%EC%B1%84%EC%9A%A9%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8%20%EC%9A%B0%EC%88%98%EC%83%81.png?raw=true" height="200" />
