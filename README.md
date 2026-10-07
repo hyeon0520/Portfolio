@@ -97,10 +97,11 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   ● 우수: 큐브 면 정렬 담당, SAC 학습
   <br>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%ED%99%98%EA%B2%BD.png?raw=true" height="200" />
+  <br>
+  ● MUJOCO를 활용한 큐브 시뮬레이션, 차후 Sim2Real 실물 이식 예정<br>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%ED%81%90%EB%B8%8C%EC%B4%AC%EC%98%81.png?raw=true" height="200" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%ED%81%90%EB%B8%8C%ED%92%80%EC%9D%B4.png?raw=true" height="200" />
   <br>
-  ● MUJOCO를 활용한 큐브 시뮬레이션, 차후 Sim2Real 실물 이식 예정<br>
   ● 객체 탐지 및 큐브 알고리즘 생성(JSON형태), 실제 큐브 문제 풀이에 활용<br>
 </div>
 
