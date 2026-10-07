@@ -66,7 +66,7 @@
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Acceptance-Certificate-energies-3742264_1.png?raw=true" height="200" />
   <br>
   ● (논문)A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data<br>
-  ● (논문)3저자 참여 및 머신러닝 신경망 부분 작업<br>
+  ● (연구)3저자 참여 및 머신러닝 신경망 부분 작업<br>
   ● (인증서)Energies 논문 인증 공문서<br>
 
 </div>
