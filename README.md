@@ -88,7 +88,7 @@
 
 </div>
 
-### 학회 참여사진
+### 📷학회 참여 사진
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%8B%A8%EC%B2%B4%EC%BB%B7.jpg?raw=true" height="200" />
