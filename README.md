@@ -50,7 +50,7 @@
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg?raw=true" height="200" />
   <br>
   ● (논문)DTW 군집화 기반 롤링 IQR 규칙 강화학습을 통한 이상치 탐지 모델에 관한 연구<br>
-  ● (연구)피크 별 주요 이상치 탐지 결과
+  ● (연구)롤링 윈도우 내 피크 별 주요 이상치 탐지
 </div>
 
 #### 2025 한국통신학회(동계)
@@ -61,7 +61,7 @@
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%98%88%EC%8B%9C.png?raw=true" height="200" />
   <br>
   ● (논문)SLM 에이전트를 활용한 데이터 분석 및 이상 경계 구간 탐지<br>
-  ● (연구)에이전트 대화 테스트케이스
+  ● (연구)에이전트 대화 테스트케이스, 사용자의 질의에 따라 데이터베이스에 해당하는 내용을 AI가 설명
 </div>
 
 #### 2026 대한전자공학회(하계)
@@ -73,8 +73,8 @@
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="200" />
   <br>
   ● (논문)잔차 동역학 학습 기반 공압 인공근육 휴머노이드 핸드의 강화학습 파지 및 조작 제어<br>
-  ● (연구)오차 검증 및 제어 그래프<br>
-  ● (테스트베드)실물 로봇손 테스트베드
+  ● (연구)각도에 따른 오차 검증 및 최적 제어<br>
+  ● (테스트베드)4지 핸드로 구성된 실물 로봇 손
 </div>
 
 ### SCI급
