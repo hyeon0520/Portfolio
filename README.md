@@ -116,7 +116,7 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/FFT%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.png?raw=true" height="200" />
   <br>
-  ● 프로젝트 팀장<br>
+  ● ABC 부트캠프 멘토링 프로젝트 팀장<br>
   ● FFT기반 이상치 탐지 솔루션 프로젝트 총괄<br>
   ● CNN-GRU Autoencoder 탐지 신경망 구축 및 GELU 활성화 함수 최적화
 </div>
