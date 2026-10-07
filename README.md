@@ -136,21 +136,16 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 </div>
 
 ### 로봇올림피아드 진행요원
-#### 2025 IROC 국제로봇올림피아드
+#### 2025, 2026 IRO 로봇올림피아드
 <div>
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.01.16~01.21%20IROC%20%EA%B5%AD%EC%A0%9C%EB%A1%9C%EB%B4%87%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C%20%EC%A7%84%ED%96%89%EC%9A%94%EC%9B%90/Eco%20AI%EB%8B%A8%EC%B2%B41.jpg?raw=true" height="200" />
-</div>
-<br>
-  ● 참가자 통솔 및 안내 진행요원<br>
-
-#### 2026 IRO 로봇올림피아드
-<div>
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.08.10~08.15%20IRO%20%EB%A1%9C%EB%B4%87%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C%20%EB%B3%B8%EC%84%A0%20%EC%A7%84%ED%96%89%EC%9A%94%EC%9B%90/EcoAI%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
 </div>
 <br>
   ● 참가자 통솔 및 안내 진행요원<br>
+  ● 피지컬 AI 및 자율주행 로봇 시험 감독관<br>
 
 ### 🕑활동 타임라인
 | Date | Activity | Details |
