@@ -99,8 +99,13 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/%EC%A0%A0%ED%86%A0%20%EC%9D%B8%ED%84%B42.jpg?raw=true" height="200" />
   <img
-  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/generate-project/generate_images/380adc89e0f64508917960fe3dac1bd1.png?raw=true" height="200" />
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/generate-project/generate_images/380adc89e0f64508917960fe3dac1bd1.png?raw=true" height="200" /> ◀이미지 생성 예시
+  <br>
+  ● 이미지 및 비디오 생성 파이프라인 구축 프로젝트 참여<br>
+  ● FastAPI 기반 웹 연동 시스템 개발 보조<br>
+  ● 영어 프롬프트 한글 번역 모듈 개발 <br>
 </div>
+
 ### 부트캠프
 #### 2025 ABC 부트캠프 멘토링
 
