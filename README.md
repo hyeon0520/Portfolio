@@ -92,6 +92,15 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 
 ## 대외활동
 ### 인턴
+#### (주)Zento 인턴
+<div>
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/%EC%A0%A0%ED%86%A0%20%EC%9D%B8%ED%84%B41.png?raw=true" height="200" />
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/%EC%A0%A0%ED%86%A0%20%EC%9D%B8%ED%84%B42.jpg?raw=true" height="200" />
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/generate-project/generate_images/380adc89e0f64508917960fe3dac1bd1.png?raw=true" height="200" />
+</div>
 ### 부트캠프
 #### 2025 ABC 부트캠프 멘토링
 
