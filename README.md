@@ -108,6 +108,18 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 
 ### 부트캠프
 #### 2025 ABC 부트캠프 멘토링
+<div>
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/FFT%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.png?raw=true" height="200" />
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/ABC%20%EA%B0%9C%EC%9D%B8.png?raw=true" height="200" />
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/2025_%EC%88%98%EB%A3%8C%EC%A6%9D.png?raw=true" height="200" /> ◀이미지 생성 예시
+  <br>
+  ● 이미지 및 비디오 생성 파이프라인 구축 프로젝트 참여<br>
+  ● FastAPI 기반 웹 연동 시스템 개발 보조<br>
+  ● 영어 프롬프트 한글 번역 모듈 개발 <br>
+</div>
 #### 2026 ABC 부트캠프 멘토링
 
 ### IRO 진행요원
