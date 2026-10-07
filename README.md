@@ -68,7 +68,6 @@
   ● (논문)A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data<br>
   ● (연구)3저자 참여 및 머신러닝 신경망 부분 작업<br>
   ● (인증서)Energies 논문 인증 공문서<br>
-
 </div>
 
 ### 학회 참여 사진
@@ -83,6 +82,25 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 </div>
 
 ### 캡스톤디자인
+<div>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%B4%88%EA%B8%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" /> ◀초기 시스템 구성도
+  <br>
+  ● 좌수, 우수 파트 분리 및 수행 역할 지정<br>
+  ● ROS2 통신 및 미들웨어 구성 설계<br>
+  ● Sim2Real 시뮬레이션 환경 채택
+  <br>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%A2%8C%EC%88%98%EB%A1%9C%EB%B4%87.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%9A%B0%EC%88%98%20%EB%A1%9C%EB%B4%87.png?raw=true" height="200" /> ◀좌수, 우수 실물
+  <br>
+  ● 좌수: 큐브 회전 담당, PPO 학습<br>
+  ● 우수: 큐브 면 정렬 담당, SAC 학습
+  <br>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%ED%99%98%EA%B2%BD.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%ED%81%90%EB%B8%8C%EC%B4%AC%EC%98%81.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%ED%81%90%EB%B8%8C%ED%92%80%EC%9D%B4.png?raw=true" height="200" />
+  ● MUJOCO를 활용한 큐브 시뮬레이션<br>
+  ● 객체 탐지 및 큐브 알고리즘 생성(JSON형태)<br>
+</div>
 
 ## 🏅경진대회
 #### 🏆2025 국립한밭대학교 자기소개서 경진대회 우수상
