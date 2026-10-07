@@ -1,6 +1,6 @@
 # Portfolio
 ### 🕑활동 타임라인
-| Date | Project | Details |
+| Date | Activity | Details |
 |-------|-------|-------|
 | 2025.01.16~01.21 | IROC 국제로봇올림피아드 | IRO에서 주최한 세계대회에서 진행요원을 맡아, 참가자들 인솔 및 통제를 담당 |
 | 2025.02.05~02.07 | 한국통신학회(동계) | 논문: Isolation forest와 AutoEncoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화 |
