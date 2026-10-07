@@ -81,7 +81,7 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png?raw=true" height="200" />
 </div>
 
-### 캡스톤디자인
+### 🧩캡스톤디자인
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%B4%88%EA%B8%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" /> ◀초기 시스템 구성도
   <br>
@@ -98,8 +98,9 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%ED%99%98%EA%B2%BD.png?raw=true" height="200" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%ED%81%90%EB%B8%8C%EC%B4%AC%EC%98%81.png?raw=true" height="200" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%ED%81%90%EB%B8%8C%ED%92%80%EC%9D%B4.png?raw=true" height="200" />
-  ● MUJOCO를 활용한 큐브 시뮬레이션<br>
-  ● 객체 탐지 및 큐브 알고리즘 생성(JSON형태)<br>
+  <br>
+  ● MUJOCO를 활용한 큐브 시뮬레이션, 차후 Sim2Real 실물 이식 예정<br>
+  ● 객체 탐지 및 큐브 알고리즘 생성(JSON형태), 실제 큐브 문제 풀이에 활용<br>
 </div>
 
 ## 🏅경진대회
