@@ -26,7 +26,7 @@
   <br>
   ● (논문)Isolation forest와 AutoEncoder 하이브리드 이상치 탐지 기법을 활용한 산업 전력 데이터 분석 및 최적화<br>
   ● (연구)오토인코더 탐지결과, 임계값 초과 이상치 검출<br>
-  [![Paper](https://img.shields.io/badge/PAPER-IEEE-00629B?style=for-the-badge&logo=ieee)](논문링크)
+  [![Paper](https://img.shields.io/badge/📄_PAPER-View_Publication-2ea44f?style=for-the-badge)](논문링크)
 
 </div>
 
