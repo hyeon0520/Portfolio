@@ -33,7 +33,9 @@
 
 #### 2025 대한전자공학회(하계)
 <div>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B3%A0%EC%86%8D%20%ED%93%A8%EB%A6%AC%EC%97%90%20%EB%B3%80%ED%99%98(FFT)%20%EC%A3%BC%EA%B8%B0%20%EC%B6%94%EC%B6%9C%20%EA%B8%B0%EB%B0%98%20%EC%9C%88%EB%8F%84%EC%9A%B0%20%EA%B5%AC%EC%84%B1%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20GRU%20%EC%98%A4%ED%86%A0%EC%9D%B8%EC%BD%94%EB%8D%94%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%82%B0%EC%97%85%20%EC%A0%84%EB%A0%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80v3.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80.png?raw=true" height="200" />
+</a>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80.png?raw=true" height="200" />
   <br>
   ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
@@ -42,7 +44,9 @@
 
 #### 2025 한국통신학회(추계)
 <div>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/DTW%20%EA%B5%B0%EC%A7%91%ED%99%94%20%EA%B8%B0%EB%B0%98%20%EB%A1%A4%EB%A7%81%20IQR%20%EA%B7%9C%EC%B9%99%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%97%B0%EA%B5%AC.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/2025%20%EC%B6%94%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+</a>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg?raw=true" height="200" />
   <br>
   ● (논문)DTW 군집화 기반 롤링 IQR 규칙 강화학습을 통한 이상치 탐지 모델에 관한 연구<br>
@@ -51,7 +55,9 @@
 
 #### 2025 한국통신학회(동계)
 <div>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%5B%EC%B5%9C%EC%A2%85%5D%5B%EB%85%BC%EB%AC%B8%5DSLM%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%9D%B4%EC%83%81%20%EA%B2%BD%EA%B3%84%20%EA%B5%AC%EA%B0%84%20%ED%83%90%EC%A7%80.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2026%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+</a>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%98%88%EC%8B%9C.png?raw=true" height="200" />
   <br>
   ● (논문)SLM 에이전트를 활용한 데이터 분석 및 이상 경계 구간 탐지<br>
@@ -60,7 +66,9 @@
 
 #### 2026 대한전자공학회(하계)
 <div>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%5B%EC%B5%9C%EC%A2%85%5D%5B%EB%85%BC%EB%AC%B8%5DSLM%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%9D%B4%EC%83%81%20%EA%B2%BD%EA%B3%84%20%EA%B5%AC%EA%B0%84%20%ED%83%90%EC%A7%80.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2026%20%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80.png?raw=true" height="200" />
+</a>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png?raw=true" height="200" />
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="200" />
   <br>
