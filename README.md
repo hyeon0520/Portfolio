@@ -119,8 +119,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 </div>
 
 ### 사물인터넷 엣지 디바이스
+####  본 프로젝트는 침입 탐지를 위한 연합학습을 목표로 프로젝트를 진행함
 <div>
-  ● 본 프로젝트는 침입 탐지를 위한 연합학습을 목표로 프로젝트를 진행함<br>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%B2%84%EB%B7%B0.png?raw=true" height="200" /> ◀연합학습 오버뷰
   <br>
   ● 장치 로컬에서 모델 학습 데이터는 장치에 유지<br>
