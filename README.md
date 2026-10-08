@@ -133,12 +133,6 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
   ● 임계값이 목표 추정치에 도달<br>
   ● 침입 탐지의 경우, 정상데이터 보다 공격 트래픽이 많고, 이는 오차행렬의 'Attack'탐지로 이어짐<br>
   ● 오차행렬의 Acurracy, Recall, Precision, F1-Score가 각각 0.99, 0.98, 0.98, 0.98로 이는 사전 학습된 데이터의 정상, 공격 데이터를 정확히 탐지함을 시사
-  
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet2.png?raw=true" height="200" /> ◀프롬프트 입력 시, 답변 화면
-  <br>
-  ● 'Nice meet'앱 개발<br>
-  ● AI api를 받아, 모바일로 AI 답변을 받음<br>
-  ● 프롬프트를 입력해, 미팅 주요 에티켓을 질의를 통해 받을 수 있음
 </div>
 
 ### FPGA 도어락
