@@ -142,6 +142,7 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.09~06.15%20FPGA%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" /> ◀프로젝트 구성도
   <br>
+  ● FPGA를 활용해 도어락 시스템을 구현하는 것을 목표로 한 프로젝트<br>
   ● <a href="https://github.com/hyeon0520/DS_DoorLock">프로젝트 링크 이동</a>
 </div>
 
