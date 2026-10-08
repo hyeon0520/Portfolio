@@ -249,9 +249,10 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 
 ## 📜자격증
 #### ADsP(데이터 분석 준전문가)
-
-
-
+<div>
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.05%20ADsP(%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EC%A4%80%EC%A0%84%EB%AC%B8%EA%B0%80)%EC%9E%90%EA%B2%A9%20%EC%B7%A8%EB%93%9D/ADsP.png?raw=true" height="200" />
+</div>
 
 ---
 
