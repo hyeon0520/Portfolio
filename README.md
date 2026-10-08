@@ -12,6 +12,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
   - [학회 참여 사진](#학회-참여-사진)
 
 - [⚙️ 프로젝트](#️-프로젝트)
+  - [모바일 앱 개발](#모바일-앱-개발)
+  - [사물인터넷 연합학습](#사물인터넷-연합학습)
   - [캡스톤디자인](#캡스톤디자인)
 
 - [🏅 경진대회](#-경진대회)
@@ -108,7 +110,7 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 
 ## ⚙️프로젝트
 
-### 모바일 앱 프로젝트
+### 모바일 앱 개발
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet.png?raw=true" height="200" /> ◀앱 초기 화면
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet2.png?raw=true" height="200" /> ◀프롬프트 입력 시, 답변 화면
