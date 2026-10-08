@@ -107,6 +107,13 @@ src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(St
 </div>
 
 ## ⚙️프로젝트
+
+### 모바일 앱
+
+### 사물인터넷 엣지 디바이스
+
+### FPGA 도어락
+
 ### 캡스톤디자인
 <div>
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%B4%88%EA%B8%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" /> ◀초기 시스템 구성도
