@@ -113,8 +113,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 
 ### 모바일 앱 개발
 <div>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~2025.06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet.png?raw=true" height="200" /> ◀앱 초기 화면
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~2025.06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet2.png?raw=true" height="200" /> ◀프롬프트 입력 시, 답변 화면
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet.png?raw=true" height="200" /> ◀앱 초기 화면
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet2.png?raw=true" height="200" /> ◀프롬프트 입력 시, 답변 화면
   <br>
   ● 'Nice meet'앱 개발<br>
   ● AI api를 받아, 모바일로 AI 답변을 받음<br>
@@ -124,14 +124,14 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 ### 사물인터넷 연합학습
 <div>
   본 프로젝트는 침입 탐지를 위한 연합학습을 목표로 프로젝트를 진행함<br>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~2025.12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%B2%84%EB%B7%B0.png?raw=true" height="200" /> ◀연합학습 오버뷰
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%B2%84%EB%B7%B0.png?raw=true" height="200" /> ◀연합학습 오버뷰
   <br>
   ● 장치 로컬에서 모델 학습 데이터는 장치에 유지<br>
   ● 모델 파라미터만 서버에 전송, 프라이버시 보호<br>
   ● 서버는 파라미터 집계, 글로벌 모델 생성<br>
   ● 통신 라운드 반복, 협업 학습 실천<br>
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~2025.12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/result/threshold.png?raw=true" height="200" />
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~2025.12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/result/confusion-matrix.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/result/threshold.png?raw=true" height="200" />
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/result/confusion-matrix.png?raw=true" height="200" />
   <br>
   ● 임계값이 목표 추정치에 도달<br>
   ● 침입 탐지의 경우, 정상데이터 보다 공격 트래픽이 많고, 이는 오차행렬의 'Attack'탐지로 이어짐<br>
