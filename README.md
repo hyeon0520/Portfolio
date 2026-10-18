@@ -178,6 +178,16 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 </div>
 
 #### 🏆2025 한국통신학회 캡스톤 경진대회 우수상
+<div>
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.10.20~12.08%20NEXT%20PICK-%EC%B7%A8%EC%97%85%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8/2025%EB%85%84%20%EC%B7%A8%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20NEXT%20PICK%20%EC%B1%84%EC%9A%A9%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8%20%EC%9A%B0%EC%88%98%EC%83%81.png?raw=true" height="200" />
+</div>
+
+#### 🏆2026 창의적 종합설계 경진대회 동상
+<div>
+  <img
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.10.20~12.08%20NEXT%20PICK-%EC%B7%A8%EC%97%85%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8/2025%EB%85%84%20%EC%B7%A8%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20NEXT%20PICK%20%EC%B1%84%EC%9A%A9%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8%20%EC%9A%B0%EC%88%98%EC%83%81.png?raw=true" height="200" />
+</div>
 
 ## 💼대외활동
 ### 인턴
@@ -277,3 +287,4 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 | 2026.03.09~06.15 | FPGA 도어락 시스템 프로젝트 | FPGA를 활용한 도어락 시스템 구현 프로젝트 |
 | 2026.04.02~05.27 | ABC 부트캠프 멘토링 | 총 9주간의 프로젝트 차세대 지능형 로보틱스 및 고성능 AI 컴퓨팅 플랫폼 개발 |
 | 2026.06.23~06.26 | 대한전자공학회(하계) | 논문: 잔차 동역학 학습 기반 공압 인공근육 휴머노이드 핸드의 강화학습 파지 및 조작 제어 |
+| 2026.10.15       | 국립한밭대학교 2026 창의적 종합설계 경진대회 | 동상 수상 |
