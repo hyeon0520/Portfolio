@@ -171,9 +171,7 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 </div>
 
 ## 🏅경진대회
-#### 🏆2025 국립한밭대학교 자기소개서 경진대회 우수상
-#### 🏆2025 한국통신학회 캡스톤 경진대회 우수상
-#### 🏆2026 창의적 종합설계 경진대회 동상
+
 <div>
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/2025.10.20~12.08%20NEXT%20PICK-%EC%B7%A8%EC%97%85%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8/2025%EB%85%84%20%EC%B7%A8%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20NEXT%20PICK%20%EC%B1%84%EC%9A%A9%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%20%EB%A6%AC%EA%B7%B8%20%EC%9A%B0%EC%88%98%EC%83%81.png?raw=true" height="200" />
@@ -182,6 +180,10 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
   <img
   src="https://github.com/hyeon0520/Portfolio/blob/main/Award/2026%EC%B0%BD%EC%9D%98%EC%A0%81%20%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%8F%99%EC%83%81.jpg?raw=true" height="200" />
 </div>
+
+#### 🏆2025 국립한밭대학교 자기소개서 경진대회 우수상
+#### 🏆2025 한국통신학회 캡스톤 경진대회 우수상
+#### 🏆2026 창의적 종합설계 경진대회 동상
 
 ## 💼대외활동
 ### 인턴
