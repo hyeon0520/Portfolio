@@ -144,11 +144,11 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 ### 모바일 앱 개발
 <div>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet.png">
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet.png?raw=true" height="200" /> ◀앱 초기 화면
-</a>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet.png?raw=true" height="200" />
+</a> ◀앱 초기 화면
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet2.png">
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet2.png?raw=true" height="200" /> ◀프롬프트 입력 시, 답변 화면
-</a>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.13~06.13%20%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%95%B1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Nicemeet2.png?raw=true" height="200" />
+</a> ◀프롬프트 입력 시, 답변 화면
   <br>
   ● 'Nice meet'앱 개발<br>
   ● AI api를 받아, 모바일로 AI 답변을 받음<br>
