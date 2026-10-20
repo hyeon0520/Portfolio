@@ -50,8 +50,10 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B3%A0%EC%86%8D%20%ED%93%A8%EB%A6%AC%EC%97%90%20%EB%B3%80%ED%99%98(FFT)%20%EC%A3%BC%EA%B8%B0%20%EC%B6%94%EC%B6%9C%20%EA%B8%B0%EB%B0%98%20%EC%9C%88%EB%8F%84%EC%9A%B0%20%EA%B5%AC%EC%84%B1%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20GRU%20%EC%98%A4%ED%86%A0%EC%9D%B8%EC%BD%94%EB%8D%94%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%82%B0%EC%97%85%20%EC%A0%84%EB%A0%A5%20%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2025%20%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80.png?raw=true" height="200" />
 </a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80.png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80.png?raw=true" height="200" />
   <br>
+</a>
   ● (논문)고속 푸리에 변환(FFT) 주기 추출 기반 윈도우 구성을 활용한 GRU 오토인코더 모델의 산업 전력 시계열 데이터 이상치 탐지<br>
   ● (연구)푸리에 변환 주기 추출 윈도우 구성 내 이상치 탐지
 </div>
@@ -61,7 +63,9 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/DTW%20%EA%B5%B0%EC%A7%91%ED%99%94%20%EA%B8%B0%EB%B0%98%20%EB%A1%A4%EB%A7%81%20IQR%20%EA%B7%9C%EC%B9%99%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%EC%97%90%20%EA%B4%80%ED%95%9C%20%EC%97%B0%EA%B5%AC.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/2025%20%EC%B6%94%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
 </a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80.jpg?raw=true" height="200" />
+</a>
   <br>
   ● (논문)DTW 군집화 기반 롤링 IQR 규칙 강화학습을 통한 이상치 탐지 모델에 관한 연구<br>
   ● (연구)롤링 윈도우 내 피크 별 주요 이상치 탐지
@@ -72,7 +76,9 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%5B%EC%B5%9C%EC%A2%85%5D%5B%EB%85%BC%EB%AC%B8%5DSLM%20%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%9D%B4%EC%83%81%20%EA%B2%BD%EA%B3%84%20%EA%B5%AC%EA%B0%84%20%ED%83%90%EC%A7%80.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/2026%20%EB%8F%99%EA%B3%84%ED%95%99%ED%9A%8C%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
 </a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%98%88%EC%8B%9C.png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%98%88%EC%8B%9C.png?raw=true" height="200" />
+</a>
   <br>
   ● (논문)SLM 에이전트를 활용한 데이터 분석 및 이상 경계 구간 탐지<br>
   ● (연구)에이전트 대화 테스트케이스, 사용자의 질의에 따라 데이터베이스에 해당하는 내용을 AI가 설명
@@ -83,8 +89,12 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%5B%EB%85%BC%EB%AC%B8%5D%EC%9E%94%EC%B0%A8%20%EB%8F%99%EC%97%AD%ED%95%99%20%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B0%98%20%EA%B3%B5%EC%95%95%20%EC%9D%B8%EA%B3%B5%EA%B7%BC%EC%9C%A1%20%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C%20%ED%95%B8%EB%93%9C%EC%9D%98%20%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%20%ED%8C%8C%EC%A7%80%20%EB%B0%8F%20%EC%A1%B0%EC%9E%91%20%EC%A0%9C%EC%96%B4.pdf">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/2026%20%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C%20%EB%85%BC%EB%AC%B8%ED%91%9C%EC%A7%80.png?raw=true" height="200" />
 </a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png?raw=true" height="200" />
+</a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="200" />
+</a>
   <br>
   ● (논문)잔차 동역학 학습 기반 공압 인공근육 휴머노이드 핸드의 강화학습 파지 및 조작 제어<br>
   ● (연구)각도에 따른 오차 검증 및 최적 제어<br>
@@ -94,8 +104,12 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 ### 🌐SCI(E)
 #### Energies
 <div>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Energies%20%ED%91%9C%EC%A7%80_1.png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Energies%20%ED%91%9C%EC%A7%80_1.png?raw=true" height="200" />
+</a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Acceptance-Certificate-energies-3742264_1.png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.07.11%20Energies%20%EB%85%BC%EB%AC%B8%20%EA%B2%8C%EC%9E%AC/Acceptance-Certificate-energies-3742264_1.png?raw=true" height="200" />
+</a>
   <br>
   ● (논문)A Comparative Study of Customized Algorithms for Anomaly Detection in Industry-Specific Power Data<br>
   ● (연구)3저자 참여 및 머신러닝 신경망 부분 작업<br>
@@ -104,13 +118,25 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 
 ### 학회 참여 사진
 <div>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.24~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
+</a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%8B%A8%EC%B2%B4%EC%BB%B7.jpg">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%8B%A8%EC%B2%B4%EC%BB%B7.jpg?raw=true" height="200" />
-  <img src=https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
+</a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg">
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.19~11.21%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EC%B6%94%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
+</a>
   <br>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(Student%20Abstract)%20in%20Singapore/AAAI_%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.01.20~01.24%20AAAI(Student%20Abstract)%20in%20Singapore/AAAI_%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
+</a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.02.04~02.06%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7.jpg?raw=true" height="200" />
+</a>
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.02.05~02.07%20%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C(%EB%8F%99%EA%B3%84)/%ED%95%99%ED%9A%8C%20%EA%B0%9C%EC%9D%B8%EC%BB%B7(%EA%B6%8C%EC%9A%B0%ED%98%84).png?raw=true" height="200" />
+</a>
 </div>
 
 ## ⚙️프로젝트
