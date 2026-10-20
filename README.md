@@ -92,7 +92,7 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EA%B4%80%EC%A0%88%20%EC%98%A4%EC%B0%A8.png?raw=true" height="200" />
 </a>
-<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true">
+<a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png">
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.06.23~06.26%20%EB%8C%80%ED%95%9C%EC%A0%84%EC%9E%90%EA%B3%B5%ED%95%99%ED%9A%8C(%ED%95%98%EA%B3%84)/%EC%8B%A4%EB%AC%BC%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%B2%A0%EB%93%9C.png?raw=true" height="200" />
 </a>
   <br>
