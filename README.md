@@ -159,8 +159,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 <div>
   본 프로젝트는 침입 탐지를 위한 연합학습을 목표로 프로젝트를 진행함<br>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%B2%84%EB%B7%B0.png">
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%B2%84%EB%B7%B0.png?raw=true" height="200" /> ◀연합학습 오버뷰
-</a>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2025.11.05~12.05%20%EC%82%AC%EB%AC%BC%EC%9D%B8%ED%84%B0%EB%84%B7%20%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%B2%84%EB%B7%B0.png?raw=true" height="200" />
+</a> ◀연합학습 오버뷰
   <br>
   ● 장치 로컬에서 모델 학습 데이터는 장치에 유지<br>
   ● 모델 파라미터만 서버에 전송, 프라이버시 보호<br>
@@ -181,8 +181,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 ### FPGA 도어락 시스템
 <div>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.09~06.15%20FPGA%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%84%B1%EB%8F%84.png">
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.09~06.15%20FPGA%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" /> ◀프로젝트 구성도
-</a>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.09~06.15%20FPGA%20%EB%8F%84%EC%96%B4%EB%9D%BD%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" />
+</a> ◀프로젝트 구성도
   <br>
   ● FPGA를 활용해 도어락 시스템을 구현하는 것을 목표로 한 프로젝트<br>
   ● <a href="https://github.com/hyeon0520/DS_DoorLock">프로젝트 링크 이동</a>
@@ -191,8 +191,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 ### 캡스톤디자인
 <div>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%B4%88%EA%B8%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png">
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%B4%88%EA%B8%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" /> ◀초기 시스템 구성도
-</a>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%B4%88%EA%B8%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png?raw=true" height="200" />
+</a> ◀초기 시스템 구성도
   <br>
   ● 좌수, 우수 파트 분리 및 수행 역할 지정<br>
   ● ROS2 통신 및 미들웨어 구성 설계<br>
@@ -201,8 +201,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
   <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%A2%8C%EC%88%98%EB%A1%9C%EB%B4%87.png?raw=true" height="200" />
 </a>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%9A%B0%EC%88%98%20%EB%A1%9C%EB%B4%87.png">
-  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%9A%B0%EC%88%98%20%EB%A1%9C%EB%B4%87.png?raw=true" height="200" /> ◀좌수, 우수 실물
-</a>
+  <img src="https://github.com/hyeon0520/Portfolio/blob/main/2026.03.03~12.21%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8/%EC%9A%B0%EC%88%98%20%EB%A1%9C%EB%B4%87.png?raw=true" height="200" />
+</a> ◀좌수, 우수 실물
   <br>
   ● 좌수: 큐브 회전 담당, PPO 학습<br>
   ● 우수: 큐브 면 정렬 담당, SAC 학습<br>
@@ -256,13 +256,13 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
 </a>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/generate-project/generate_images/380adc89e0f64508917960fe3dac1bd1.png">
   <img
-  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/generate-project/generate_images/380adc89e0f64508917960fe3dac1bd1.png?raw=true" height="200" /> ◀이미지 생성 예시
-</a>
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/generate-project/generate_images/380adc89e0f64508917960fe3dac1bd1.png?raw=true" height="200" />
+</a> ◀이미지 생성 예시
   <br>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/AI%20%EC%9D%B4%EB%AF%B8%EC%A7%80%C2%B7%EB%B9%84%EB%94%94%EC%98%A4%20%EC%83%9D%EC%84%B1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%9D%90%EB%A6%84%EB%8F%84.png">
   <img
-  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/AI%20%EC%9D%B4%EB%AF%B8%EC%A7%80%C2%B7%EB%B9%84%EB%94%94%EC%98%A4%20%EC%83%9D%EC%84%B1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%9D%90%EB%A6%84%EB%8F%84.png?raw=true" width="508" /> ◀프로젝트 통합 파이프라인
-</a>
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.06.30~07.11%20%EA%B8%B0%EC%97%85%EC%9D%B8%ED%84%B4%20(%EC%A3%BC)Zento/AI%20%EC%9D%B4%EB%AF%B8%EC%A7%80%C2%B7%EB%B9%84%EB%94%94%EC%98%A4%20%EC%83%9D%EC%84%B1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%ED%9D%90%EB%A6%84%EB%8F%84.png?raw=true" width="508" />
+</a> ◀프로젝트 통합 파이프라인
   <br>
   ● 이미지 및 비디오 생성 파이프라인 구축 프로젝트 참여<br>
   ● FastAPI 기반 웹 연동 시스템 개발 보조<br>
@@ -283,8 +283,8 @@ AI와 로보틱스를 중심으로 다양한 프로젝트와 연구를 수행하
   <br>
 <a href="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/FFT%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.png">
   <img
-  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/FFT%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.png?raw=true" width="412" /> ◀주요 파이프라인
-</a>
+  src="https://github.com/hyeon0520/Portfolio/blob/main/2025.05.30~06.30%20ABC%20%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84%20%EB%A9%98%ED%86%A0%EB%A7%81/FFT%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.png?raw=true" width="412" />
+</a> ◀주요 파이프라인
   <br>
   ● 2025 ABC 부트캠프 멘토링 프로젝트 팀장<br>
   ● FFT기반 이상치 탐지 솔루션 프로젝트 총괄<br>
